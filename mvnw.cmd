@@ -1,0 +1,1 @@
+echo This is a dummy mvnw.cmd file
